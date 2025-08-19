@@ -1,0 +1,5 @@
+{
+  "name": "Copy of PipX",
+  "description": "An AI-powered web application to parse crypto trading signals, calculate potential profit and loss for multiple positions, and track the total P&L.",
+  "requestFramePermissions": []
+}
